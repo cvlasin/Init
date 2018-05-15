@@ -1,0 +1,10 @@
+Server:		10.51.2.22
+Address:	10.51.2.22#53
+
+Non-authoritative answer:
+Name:	42.fr
+Address: 10.52.1.11
+Name:	42.fr
+Address: 10.52.1.12
+Name:	42.fr
+Address: 10.52.1.76
